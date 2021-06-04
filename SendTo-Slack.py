@@ -4,7 +4,7 @@
 """
 Quick lib to send messages to Slack.
 
-@DK 2021
+@withdk 2021
 """
 
 import json
